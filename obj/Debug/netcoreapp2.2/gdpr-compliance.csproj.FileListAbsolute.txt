@@ -1,0 +1,11 @@
+C:\VISUALSTUDIOCODE\PUBLIC GITHUB\GDPR-COMPLIANCE\bin\Debug\netcoreapp2.2\gdpr-compliance.deps.json
+C:\VISUALSTUDIOCODE\PUBLIC GITHUB\GDPR-COMPLIANCE\bin\Debug\netcoreapp2.2\gdpr-compliance.runtimeconfig.json
+C:\VISUALSTUDIOCODE\PUBLIC GITHUB\GDPR-COMPLIANCE\bin\Debug\netcoreapp2.2\gdpr-compliance.runtimeconfig.dev.json
+c:\VISUALSTUDIOCODE\PUBLIC GITHUB\GDPR-COMPLIANCE\bin\Debug\netcoreapp2.2\gdpr-compliance.dll
+c:\VISUALSTUDIOCODE\PUBLIC GITHUB\GDPR-COMPLIANCE\bin\Debug\netcoreapp2.2\gdpr-compliance.pdb
+c:\VISUALSTUDIOCODE\PUBLIC GITHUB\GDPR-COMPLIANCE\obj\Debug\netcoreapp2.2\gdpr-compliance.csprojAssemblyReference.cache
+c:\VISUALSTUDIOCODE\PUBLIC GITHUB\GDPR-COMPLIANCE\obj\Debug\netcoreapp2.2\gdpr-compliance.csproj.CoreCompileInputs.cache
+c:\VISUALSTUDIOCODE\PUBLIC GITHUB\GDPR-COMPLIANCE\obj\Debug\netcoreapp2.2\gdpr-compliance.AssemblyInfoInputs.cache
+c:\VISUALSTUDIOCODE\PUBLIC GITHUB\GDPR-COMPLIANCE\obj\Debug\netcoreapp2.2\gdpr-compliance.AssemblyInfo.cs
+c:\VISUALSTUDIOCODE\PUBLIC GITHUB\GDPR-COMPLIANCE\obj\Debug\netcoreapp2.2\gdpr-compliance.dll
+c:\VISUALSTUDIOCODE\PUBLIC GITHUB\GDPR-COMPLIANCE\obj\Debug\netcoreapp2.2\gdpr-compliance.pdb
